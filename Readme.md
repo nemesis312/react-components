@@ -12,7 +12,7 @@ This project contains a collection of reusable React components that can be easi
 
 To use these components, you will need to have Node.js and npm installed on your machine.
 
-### Installation
+### Installation (soon)
 
 <!-- To install the components, simply run the following command:
 
@@ -20,7 +20,7 @@ To use these components, you will need to have Node.js and npm installed on your
 npm install react-component-project
 ``` -->
 
-### Usage
+### Usage (soon)
 
 <!-- To use a component, simply import it into your React application and pass in any necessary props. For example, to use the `Button` component:
 
