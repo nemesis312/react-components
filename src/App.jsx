@@ -7,6 +7,8 @@ import NavigationBar from './components/NavigationBar'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container } from 'react-bootstrap'
 import Temblores from './components/Temblores'
+import UserForm from './components/UserForm'
+import ParentComponent from './components/ParentChildExample/ParentComponent'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,7 +17,9 @@ function App() {
     <>
     <NavigationBar />
     <Container>
-      <Temblores />
+      {/* <Temblores /> */}
+      <UserForm />
+      {/* <ParentComponent /> */}
     </Container>
     </>
   )
